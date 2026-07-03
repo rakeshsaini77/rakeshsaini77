@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 Currently learning Advanced Python and building small projects<br><br>👯 Open to collaborate on beginner-friendly Python and web projects<br><br>🤝 Looking for guidance in DSA and backend development<br><br>🌱 Learning OOP, Data Structures & Algorithms, and backend development with FastAPI & MongoDB<br><br>💬 Ask me about Python basics, GitHub, and beginner coding<br><br>⚡ Fun fact: I’m focused on becoming a skilled developer through consistency 🚀
+
 
 
 ## 🌐 Socials:
